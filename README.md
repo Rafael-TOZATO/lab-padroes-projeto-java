@@ -1,6 +1,6 @@
 <div align="center">
 
-![Explorando Padrões de Projeto na Prática com Java](./banner.png)
+![Explorando Padrões de Projeto na Prática com Java](./banner.jpg)
 
 # ☕ Explorando Padrões de Projeto na Prática com Java
 
@@ -30,7 +30,7 @@ O foco deste laboratório é compreender a estrutura fundamental, a orientação
 | Padrão | Categoria | Descrição / Aplicação |
 | :--- | :--- | :--- |
 | 🧩 **Singleton** | Criacional | Garante a existência de apenas uma instância de uma classe, mantendo um ponto global de acesso. |
-| 🎯 **Strategy** | Comportamental | Define uma família de algoritmos, encapsula cada um deles e os torna intercambiáveis em tempo de execução. |
+| 🎯 **Strategy** | Comportamental | Define uma família de algoritmos, encapsulando cada um deles e os torna intercambiáveis em tempo de execução. |
 | 🏛️ **Facade** | Estrutural | Prove uma interface simplificada e unificada para um conjunto complexo de subsistemas (ex: CRM e CEP). |
 
 ---
