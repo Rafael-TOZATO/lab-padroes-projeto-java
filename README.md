@@ -15,15 +15,11 @@
 
 </div>
 
----
-
 ## 📌 Sobre o Projeto
 
 Este repositório contém as implementações práticas dos **Padrões de Projeto (Design Patterns)** da GoF (Gang of Four) desenvolvidos em **Java Puro**, sem dependência de frameworks externos.
 
 O foco deste laboratório é compreender a estrutura fundamental, a orientação a objetos e a aplicação direta dos conceitos de arquitetura limpa em nível de código.
-
----
 
 ## 🏛️ Padrões de Projeto Implementados
 
@@ -33,15 +29,32 @@ O foco deste laboratório é compreender a estrutura fundamental, a orientação
 | 🎯 **Strategy** | Comportamental | Define uma família de algoritmos, encapsulando cada um deles e os torna intercambiáveis em tempo de execução. |
 | 🏛️ **Facade** | Estrutural | Prove uma interface simplificada e unificada para um conjunto complexo de subsistemas (ex: CRM e CEP). |
 
----
-
 ## 🛠️ Tecno-Stack e Requisitos
 
 - **Linguagem:** Java 17+ / OpenJDK
 - **IDE Recomendada:** Eclipse / VS Code / IntelliJ IDEA
 - **Paradigma:** Orientação a Objetos (POO) com Design Patterns GoF
 
----
+**Rafael Ornelas Tozato**
+
+Engenharia Química | Garantia da Qualidade | Governança 4.0
+
+## 📬 CONTATOS E PERFIS
+
+💻 **PROJETOS E PORTFÓLIOS**
+* Ecossistema de Aplicativos: [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
+* H-Folio Professional: [h-folio-I0.vercel.app](https://h-folio-I0.vercel.app)
+
+🐙 **CÓDIGOS E REPOSITÓRIOS**
+* GitHub: [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+
+✍️ **ARTIGOS E PUBLICAÇÕES**
+* Medium: [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
+* Comunidade DEV: [dev.to/rafaeltozato](https://dev.to/rafaeltozato)
+
+💼 **CONTATO**
+* LinkedIn: [linkedin.com/in/rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
+* E-mail: ornelas.tozato@gmail.com
 
 ## 📂 Estrutura de Pastas do Projeto
 
@@ -53,21 +66,3 @@ src/
 │   └── facade/           # Implementação da Fachada Unificada
 ├── Subsistema1/CRM/       # Subsistema encapsulado de CRM
 └── subsistema2/cep/       # Subsistema encapsulado de CEP
-
----
-
-## 🐙 CÓDIGO E REPOSITÓRIOS
-- **GitHub:** [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
-
-## ✍️ ARTIGOS E PUBLICAÇÕES
-- **Medium:** [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
-
-## 📬 CONTATOS
-- **E-mail:** ornelas.tozato@gmail.com
-- **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
-- **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
-- **Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)
-- **Dev Hub:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
-- **H-Folio:** [h-folio-l0.vercel.app](https://h-folio-l0.vercel.app)
-- **Microsoft Learn:** [rafaelornelastozato-2209](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209)
-
