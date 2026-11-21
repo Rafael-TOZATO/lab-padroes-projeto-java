@@ -1,6 +1,8 @@
 <div align="center">
 
-![Explorando Padrões de Projeto na Prática com Java](./banner.jpg)
+![Explorando Padrões de Projeto na Prática com Java](./padroes-de-projeto-java-animado.gif)
+
+</div>
 
 # ☕ Explorando Padrões de Projeto na Prática com Java
 
